@@ -1,0 +1,28 @@
+<testsuites id="" name="" tests="3" failures="0" skipped="0" errors="0" time="15.612714">
+<testsuite name="ai_native_course_test.spec.ts" timestamp="2026-01-21T02:34:15.504Z" hostname="chromium" tests="3" failures="0" skipped="0" time="14.681" errors="0">
+<testcase name="AI原生开发工作流实战课程测试 › 完整流程：访问首页并进入课程详情页" classname="ai_native_course_test.spec.ts" time="8.887">
+<system-out>
+<![CDATA[✓ 已访问极客时间首页
+执行搜索...
+✓ 搜索结果中找到课程
+✅ 测试成功！
+课程: AI 原生开发工作流实战
+讲师: Tony Bai
+URL: https://time.geekbang.org/search?q=AI%E5%8E%9F%E7%94%9F%E5%BC%80%E5%8F%91%E5%B7%A5%E4%BD%9C%E6%B5%81%E5%AE%9E%E6%88%98
+]]>
+</system-out>
+</testcase>
+<testcase name="AI原生开发工作流实战课程测试 › 直接访问课程详情页" classname="ai_native_course_test.spec.ts" time="2.358">
+<system-out>
+<![CDATA[✅ 直接访问测试成功
+]]>
+</system-out>
+</testcase>
+<testcase name="AI原生开发工作流实战课程测试 › 验证搜索页面" classname="ai_native_course_test.spec.ts" time="3.436">
+<system-out>
+<![CDATA[✅ 搜索页面验证成功
+]]>
+</system-out>
+</testcase>
+</testsuite>
+</testsuites>

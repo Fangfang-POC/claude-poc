@@ -1,0 +1,16 @@
+{
+  "name": "geekbang-automation-test",
+  "version": "1.0.0",
+  "description": "极客时间课程搜索自动化测试",
+  "scripts": {
+    "test": "playwright test",
+    "test:headed": "playwright test --headed",
+    "test:debug": "playwright test --debug",
+    "test:chromium": "playwright test --project=chromium",
+    "test:report": "playwright show-report",
+    "install:browsers": "playwright install"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.48.0"
+  }
+}
